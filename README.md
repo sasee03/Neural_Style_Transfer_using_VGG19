@@ -57,3 +57,5 @@ The application will launch in your default web browser. You can now upload a co
 
 This project uses the VGG19 pre-trained model from TensorFlow for feature extraction. Special thanks to the Gradio team for providing an easy-to-use interface for machine learning applications.
 ```
+
+This `README.md` file provides an overview of your project, including how to install and run it, and outlines the project's structure and features. You can replace the placeholder link in the clone command (`git clone https://github.com/your-username/neural-style-transfer.git`) with your actual repository URL.
